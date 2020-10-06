@@ -37,3 +37,14 @@
 * Company/Organization: *Cyberstream (former IMF Ltd Greece)*
 * Location: *Athens, Greece*
 * Job description: *Development of customized client-server applications using Sybase PowerBuilder 5.0/6.0, Microsoft Visual Basic 6.0, Microsoft SQL Server, Informix, Sybase SQL Anywhere. Software and database design using UML (Rational Rose 4.0) methodology and LogicWorks ErWin 3.5*
+
+
+
+
+---
+## Education
+###1993 – 1999	
+####BSc in Computer Science	
+* Computer Science
+* University of Piraeus, Piraeus Greece
+
