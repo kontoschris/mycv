@@ -68,20 +68,14 @@
 ---
 ## Projects
 
-#### Transition of physical servers to virtual environment
+#### Transition of physical servers to virtual environment (Jun. 2015)
 Transition of 3 Windows Servers (file, print and DNS server), and 1 Debian (Web) Server from physical to virtual environment. Visualization technology: Proxmox Virtual Environment (www.proxmox.com/en/proxmox-ve)
 
 
-Jun. 2015
-
-#### Manipulation and processing geotechnical data with Excel VBA
+#### Manipulation and processing geotechnical data with Excel VBA (Jan. 2006)
 Development of various Excel worksheets with automations and procedures for importing and manipulating data from site investigations and laboratory tests to Geotechnical Database System.
 Geologists and geotechnical engineers of company Edafomichaniki SA, uses these files for collect and manipulating geotechnical data.
 
 
-Jan. 2006
-
-#### Parking control software
+#### Parking control software (May 2003 – Sep. 2003)
 Design and development of a parking control software (management and monitoring of the car's transactions, ticketing, invoicing, staff management) using Borland Delphi 6, Borland Interbase 6.5, Seagate Crystal Reports 8.5. This parking control software were in operation from 2003 until 2013 in a Parking Station in Vouliagmenis Avenue, Ag. Demetrios, Athens. Daily usage: 100-150 vehicles.
-May 2003 – Sep. 2003
-
