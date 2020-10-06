@@ -9,4 +9,5 @@
 ### Feb 2014 - Now
 #### Informatics Teacher in Primary School
 Primary Education at Ministry of Education
-*N. Irakleio, Athens*
+
+Location: *N. Irakleio, Athens*
