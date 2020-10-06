@@ -7,16 +7,6 @@
 ## Work Exprerience
 
 ### Feb 2014 - Now
-Title | Company/Organization | location
------------- | -------------  | -------------
-Informatics Teacher in Primary School | Primary Education at Ministry of Education | N. Irakleio, Athens
-
-#### Informatics Teacher in Primary School 
+#### Informatics Teacher in Primary School
 Primary Education at Ministry of Education
 *N. Irakleio, Athens*
-
-
-
-##### Informatics Teacher
-Primary Education at Ministry of Education
-N. Irakleio, Athens
