@@ -45,6 +45,5 @@
 ## Education
 ### 1993 – 1999	
 #### BSc in Computer Science	
-* Computer Science
-* University of Piraeus, Piraeus Greece
+##### Computer Science, University of Piraeus, Piraeus Greece
 
