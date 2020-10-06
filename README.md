@@ -47,3 +47,19 @@
 #### BSc in Computer Science	
 ##### Computer Science, University of Piraeus, Piraeus Greece
 
+
+---
+## Personal Skills
+### Languages	
+**Greek**, English
+
+## Programming/Development skills	
+**HTML, CSS, Php 5, MySQL, Java SE 8 (JavaFX, FXML), Netbeans, Eclipse Java, Visual Basic, VBA**
+**Wordpress CMS & DIVI framework, Joomla CMS**
+
+
+## Computer skills	
+* Microsoft Hyper-V Core, Windows Terminal Services, Microsoft Office 365
+*	Photoshop, Corel Draw, InkScape
+*	Setup and maintenance of Windows Servers, Ubuntu Server, Apache Web Server, FreeNas, OwnCloud, ProxMox, Hyper-V
+*	Server, desktop and laptop builds and support
