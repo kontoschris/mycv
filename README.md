@@ -1,13 +1,11 @@
-# PERSONAL INFORMATION
-###### Name is: ##### Chris Kontos
-###### I am living **Athens, Greece**
-
-	 +30 210 2840128     +30 6947 690922      
-
-	 kontoschr@gmail.com 
-
-	Skype name: kontoschris
-Gender: Male 
-Date of birth: September 20, 1974 
-Nationality: Greek
+# Chris Kontos
 ![Image of Chris](my-logo-10.png)
+
+### Personal Information
+:mailbox_with_no_mail: City: **Athens, Greece** :iphone: Phone: **6984150447** :email: email: kontos.chris@outlook.com
+
+### Work Exprerience
+#### 2014-Feb until now
+##### Informatics Teacher
+Primary Education at Ministry of Education
+N. Irakleio, Athens
