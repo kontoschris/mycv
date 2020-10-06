@@ -10,4 +10,4 @@
 Gender: Male 
 Date of birth: September 20, 1974 
 Nationality: Greek
-![Image of Chris](https://octodex.github.com/images/yaktocat.png)
+![Image of Chris](my-logo-10.png)
