@@ -2,7 +2,7 @@
 ![Image of Chris](my-logo-10.png)
 
 ## Personal Information
-:mailbox_with_no_mail: City: **Athens, Greece** :iphone: Phone: **6984150447** :email: email: kontos.chris@outlook.com
+City: **Athens, Greece** Phone: **6984150447** email: kontos.chris@outlook.com
 
 
 ---
