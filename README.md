@@ -57,8 +57,7 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 
 ### Programming/Development skills	
 | Web development      | **HTML, CSS, Php 5** |
-| ----------- | ----------- |
-| Web development      | **HTML, CSS, Php 5** |
+| IDE      | **Netbeans, Eclipse Java** |
 * HTML, CSS, Php 5, MySQL, Java SE 8 (JavaFX, FXML), Netbeans, Eclipse Java, Visual Basic, VBA
 * Wordpress CMS & DIVI framework, Joomla CMS
 
