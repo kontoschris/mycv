@@ -6,6 +6,7 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 
 
 ---
+
 ## Work Exprerience
 ### Feb 2014 - Now
 #### Informatics Teacher in Primary School
@@ -32,6 +33,7 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 * Job description: *Design and development of applications for the information management of “Attikes Diadromes SA” (Operation and maintenance company of Attica Tollway) using Borland Delphi 6.0, Boralnd Interbase 6.0/7.0, Seagate Crystal Reports 8.5, MySQL 3, InstallShield Express 4.0.*
 
 
+
 ### Feb 1998 - Dec 1999
 #### Software Engineer
 * Company/Organization: *Cyberstream (former IMF Ltd Greece)*
@@ -39,9 +41,8 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 * Job description: *Development of customized client-server applications using Sybase PowerBuilder 5.0/6.0, Microsoft Visual Basic 6.0, Microsoft SQL Server, Informix, Sybase SQL Anywhere. Software and database design using UML (Rational Rose 4.0) methodology and LogicWorks ErWin 3.5*
 
 
-
-
 ---
+
 ## Education
 ### 1993 – 1999	
 #### BSc in Computer Science	
@@ -49,11 +50,15 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 
 
 ---
+
 ## Personal Skills
 ### Languages	
 **Greek**, English
 
 ### Programming/Development skills	
+| Web development      | **HTML, CSS, Php 5** |
+| ----------- | ----------- |
+| Web development      | **HTML, CSS, Php 5** |
 * HTML, CSS, Php 5, MySQL, Java SE 8 (JavaFX, FXML), Netbeans, Eclipse Java, Visual Basic, VBA
 * Wordpress CMS & DIVI framework, Joomla CMS
 
