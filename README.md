@@ -67,6 +67,13 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 
 ---
 ## Projects
+| Περίοδος      | Τίτλος | Περιγραφή |
+| ----------- | ----------- |----------- |
+| Jun. 2015      | Transition of physical servers to virtual environment       |Transition of 3 Windows Servers (file, print and DNS server), and 1 Debian (Web) Server from physical to virtual environment. Visualization technology: Proxmox Virtual Environment (www.proxmox.com/en/proxmox-ve)
+
+
+
+
 
 #### Transition of physical servers to virtual environment (Jun. 2015)
 Transition of 3 Windows Servers (file, print and DNS server), and 1 Debian (Web) Server from physical to virtual environment. Visualization technology: Proxmox Virtual Environment (www.proxmox.com/en/proxmox-ve)
