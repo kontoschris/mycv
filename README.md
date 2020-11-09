@@ -90,6 +90,6 @@
 
 ---
 ## Interests
-- Photography
-- Music
-- Running
+- 📷 Photography
+- 🎵 Music
+- 🏃 Running
