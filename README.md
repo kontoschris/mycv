@@ -2,7 +2,7 @@
 ![Image of Chris](my-logo-10.png)
 
 ## Personal Information
-📯 City: **Athens, Greece** 
+🏠 City: **Athens, Greece** 
 
 📱 Phone: **6984150447** 
 
