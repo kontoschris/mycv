@@ -56,17 +56,23 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 **Greek**, English
 
 ### Programming/Development skills	
-| Web development      | **HTML, CSS, Php 5** |
+| Category      | Product/Software/Language |
+| ----------- | ----------- |
 | IDE      | **Netbeans, Eclipse Java** |
-* HTML, CSS, Php 5, MySQL, Java SE 8 (JavaFX, FXML), Netbeans, Eclipse Java, Visual Basic, VBA
-* Wordpress CMS & DIVI framework, Joomla CMS
+| Web Development      | **HTML, CSS, Php 5** |
+| Databases      | **Interbase, MySQL, MS SQL Server** |
+| Programming      | **Java SE 8 (JavaFX, FXML), Visual Basic, VBA, MIT Scratch** |
+| CMS      | **Wordpress CMS & DIVI framework, Joomla CMS** |
 
 
 ### Computer skills	
-* Microsoft Hyper-V Core, Windows Terminal Services, Microsoft Office 365
-*	Photoshop, Corel Draw, InkScape
-*	Setup and maintenance of Windows Servers, Ubuntu Server, Apache Web Server, FreeNas, OwnCloud, ProxMox, Hyper-V
-*	Server, desktop and laptop builds and support
+| Category      | Product/Software/Language |
+| ----------- | ----------- |
+| Office Software      | **Microsoft Office 2019/365** |
+| Design & Photo      | **Photoshop, Corel Draw, InkScape** |
+| Hardware      | **Server, desktop and laptop builds and support** |
+| Servers      | **Microsoft Hyper-V & Hyper-V Core, Windows Terminal Services, Ubuntu Server** |
+| Various      | **FreeNas, OwnCloud, ProxMox VE, PowerShell** |
 
 
 ---
@@ -76,3 +82,10 @@ City: **Athens, Greece** - Phone: **6984150447** - email: kontos.chris@outlook.c
 | Jun. 2015      | Transition of physical servers to virtual environment       |Transition of 3 Windows Servers (file, print and DNS server), and 1 Debian (Web) Server from physical to virtual environment. Visualization technology: [Proxmox Virtual Environment](www.proxmox.com/en/proxmox-ve) |
 | Jan. 2006      | Manipulation and processing geotechnical data with Excel VBA       | Development of various Excel worksheets with automations and procedures for importing and manipulating data from site investigations and laboratory tests to Geotechnical Database System. Geologists and geotechnical engineers of company Edafomichaniki SA, uses these files for collect and manipulating geotechnical data. |
 | May 2003 – Sep. 2003 | Parking control software | Design and development of a parking control software (management and monitoring of the car's transactions, ticketing, invoicing, staff management) using Borland Delphi 6, Borland Interbase 6.5, Seagate Crystal Reports 8.5. This parking control software were in operation from 2003 until 2013 in a Parking Station in Vouliagmenis Avenue, Ag. Demetrios, Athens. Daily usage: 100-150 vehicles. |
+
+
+---
+## Interests
+- Photography
+- Music
+- Running
