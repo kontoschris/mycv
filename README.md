@@ -22,6 +22,7 @@
 #### Informatics Teacher at Secondary Education
  * Company/Organization: *Secondary Education at Ministry of Education*
  
+![image](https://user-images.githubusercontent.com/72415104/122101027-87578c80-ce1c-11eb-9e2a-feea2685eac2.png)
 
 ### Jan 2004 - Oct 2005
 #### System and Network Administrator
