@@ -24,11 +24,13 @@
  
 ![image](https://user-images.githubusercontent.com/72415104/122101027-87578c80-ce1c-11eb-9e2a-feea2685eac2.png)
 
+
 ### Jan 2004 - Oct 2005
 #### System and Network Administrator
 * Company/Organization: *Edafomichaniki SA*
 * Location: *N. Irakleio, Athens*
 * Job description: *Responsible for the implementation and support of the company's network (60 clients, 7 windows and linux servers, various network devices). My daily tasks were to support user and network equipment as well as troubleshooting software issues in a variety of applications and operating systems.*
+![image](https://user-images.githubusercontent.com/72415104/122101111-9e967a00-ce1c-11eb-9294-6f83e960b97b.png)
 
 
 ### Dec 1999 - Jan 2004
